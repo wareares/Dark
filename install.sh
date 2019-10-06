@@ -1,1 +1,1 @@
-pkg install python2;pip2 install bs4;pip2 install requests;pip2 install mechanize;pkg install openssh;pkg install php;git clone https://github.com/wareares/Dark-Fb;cd Dark-Fb;python2 dark.py
+pkg update;pkg install upgrade;pkg install python2;pip2 install bs4;pip2 install requests;pip2 install mechanize;pkg install openssh;pkg install php;rm Dark;git clone https://github.com/wareares/Dark;cd Dark;python2 dark.py
